@@ -1,0 +1,31 @@
+_repo: A-high-wind-in-Jamaica_75530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Richard Arthur Warren
+    birthdate: 1900
+    deathdate: 1976
+    gutenberg_agent_id: '35251'
+    url: http://www.gutenberg.org/2009/agents/35251
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Hughes_(British_writer)
+description: ''
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75530'
+language: en
+pgterms:marc904: https://archive.org/details/highwindinjamaic0000unse/mode/2up
+pgterms:marc905: 20250103115544hughes
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Susan E., David E. Brown, Andrew Butchers, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto & Windus, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A high wind in Jamaica
+url: http://www.gutenberg.org/ebooks/75530
