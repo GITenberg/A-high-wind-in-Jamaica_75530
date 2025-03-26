@@ -1,5 +1,8 @@
 _repo: A-high-wind-in-Jamaica_75530
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75530-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Richard Arthur Warren
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35251
     wikipedia: https://en.wikipedia.org/wiki/Richard_Hughes_(British_writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75530#A-high-wind-in-Jamaica
 gutenberg_issued: '2025-03-05'
 gutenberg_type: Text
 identifiers:
